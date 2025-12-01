@@ -19,16 +19,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Greedy
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sorting
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
+## Binary Search
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 <!---LeetCode Topics End-->
