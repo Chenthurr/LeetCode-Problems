@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0492-construct-the-rectangle](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Geometry
 |  |
