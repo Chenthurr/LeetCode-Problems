@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0575-distribute-candies) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
