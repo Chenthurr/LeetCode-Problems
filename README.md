@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0704-binary-search) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Greedy
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0704-binary-search) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Hash Table
 |  |
