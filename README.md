@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Greedy
 |  |
@@ -90,13 +91,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Matrix
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
