@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2211-count-collisions-on-a-road) |
+| [3606-coupon-code-validator](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3606-coupon-code-validator) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Greedy
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3433-count-mentions-per-user](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3606-coupon-code-validator) |
 ## Counting Sort
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [3531-count-covered-buildings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Math
 |  |
