@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0292-nim-game) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2092-find-all-people-with-secret) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
