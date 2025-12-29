@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [1089-duplicate-zeros](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1089-duplicate-zeros) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
