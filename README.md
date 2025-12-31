@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0598-range-addition-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0706-design-hashmap) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
+| [0598-range-addition-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0598-range-addition-ii) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [1175-prime-arrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1175-prime-arrangements) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
