@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0495-teemo-attacking](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0441-arranging-coins) |
