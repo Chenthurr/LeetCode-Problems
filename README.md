@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
