@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
+| [0819-most-common-word](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2211-count-collisions-on-a-road) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0819-most-common-word](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [3583-count-special-triplets](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3583-count-special-triplets) |
 ## Binary Search
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0706-design-hashmap](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0706-design-hashmap) |
+| [0819-most-common-word](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3531-count-covered-buildings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3583-count-special-triplets) |
