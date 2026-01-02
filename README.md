@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0584-find-customer-referee) |
+| [0619-biggest-single-number](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0619-biggest-single-number) |
 | [1075-project-employees-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1148-article-views-i) |
 ## Two Pointers
