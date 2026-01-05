@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0598-range-addition-ii) |
+| [0605-can-place-flowers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [1975-maximum-matrix-sum](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
