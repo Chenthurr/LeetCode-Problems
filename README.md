@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0896-monotonic-array) |
+| [0908-smallest-range-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0908-smallest-range-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1089-duplicate-zeros](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0598-range-addition-ii) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0908-smallest-range-i) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1175-prime-arrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1175-prime-arrangements) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
