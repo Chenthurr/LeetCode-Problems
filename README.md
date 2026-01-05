@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0908-smallest-range-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1089-duplicate-zeros](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [2092-find-all-people-with-secret](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0908-smallest-range-i) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1175-prime-arrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1175-prime-arrangements) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Stack
 |  |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
