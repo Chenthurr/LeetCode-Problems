@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
