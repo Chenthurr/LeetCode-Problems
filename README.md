@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0860-lemonade-change) |
+| [1323-maximum-69-number](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1975-maximum-matrix-sum](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1175-prime-arrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1175-prime-arrangements) |
+| [1323-maximum-69-number](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
