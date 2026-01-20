@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3433-count-mentions-per-user) |
 | [3454-separate-squares-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3454-separate-squares-ii) |
@@ -314,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3454-separate-squares-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 <!---LeetCode Topics End-->
