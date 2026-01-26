@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1089-duplicate-zeros](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1089-duplicate-zeros) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1175-prime-arrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1175-prime-arrangements) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1323-maximum-69-number](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [0867-transpose-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1103-distribute-candies-to-people](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [2211-count-collisions-on-a-road](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [3433-count-mentions-per-user](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3433-count-mentions-per-user) |
