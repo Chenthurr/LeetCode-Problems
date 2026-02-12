@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3606-coupon-code-validator](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Array
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [3583-count-special-triplets](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
+| [3713-longest-balanced-substring-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Brainteaser
 |  |
 | ------- |
