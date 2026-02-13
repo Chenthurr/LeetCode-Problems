@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3606-coupon-code-validator](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Array
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Math
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3714-longest-balanced-substring-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Matrix
 |  |
 | ------- |
