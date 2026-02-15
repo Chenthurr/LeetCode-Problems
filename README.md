@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0441-arranging-coins) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [0867-transpose-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1103-distribute-candies-to-people](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1103-distribute-candies-to-people) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Heap (Priority Queue)
