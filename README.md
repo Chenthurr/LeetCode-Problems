@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1528-shuffle-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2092-find-all-people-with-secret](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0819-most-common-word) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3583-count-special-triplets](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Heap (Priority Queue)
