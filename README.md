@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1528-shuffle-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1528-shuffle-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2211-count-collisions-on-a-road) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [3433-count-mentions-per-user](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3433-count-mentions-per-user) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -413,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0401-binary-watch) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
