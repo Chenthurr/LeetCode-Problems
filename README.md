@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1980-find-unique-binary-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0819-most-common-word) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1980-find-unique-binary-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3583-count-special-triplets) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 ## Recursion
 |  |
 | ------- |
