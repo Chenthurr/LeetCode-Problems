@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2092-find-all-people-with-secret](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
