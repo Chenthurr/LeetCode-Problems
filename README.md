@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1528-shuffle-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
