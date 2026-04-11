@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
 |  |
 | ------- |
