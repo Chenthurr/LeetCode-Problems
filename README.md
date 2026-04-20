@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
