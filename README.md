@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0219-contains-duplicate-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0396-rotate-function](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0500-keyboard-row) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
 | [0598-range-addition-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0598-range-addition-ii) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0396-rotate-function](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
