@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [1089-duplicate-zeros](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
