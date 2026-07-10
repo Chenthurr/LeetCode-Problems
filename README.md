@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0897-increasing-order-search-tree) |
