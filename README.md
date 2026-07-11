@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0396-rotate-function](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0396-rotate-function) |
 | [0495-teemo-attacking](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0495-teemo-attacking) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0897-increasing-order-search-tree) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0897-increasing-order-search-tree) |
@@ -478,11 +481,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0897-increasing-order-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
