@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0396-rotate-function) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -500,5 +502,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
