@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0177-nth-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0584-find-customer-referee) |
 | [0619-biggest-single-number](https://github.com/Chenthurr/LeetCode-Problems/tree/master/0619-biggest-single-number) |
