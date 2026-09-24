@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3454-separate-squares-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3531-count-covered-buildings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3433-count-mentions-per-user) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
