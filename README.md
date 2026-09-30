@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1045-customers-who-bought-all-products) |
 | [1075-project-employees-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1193-monthly-transactions-i) |
 | [1393-capital-gainloss](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1393-capital-gainloss) |
 | [1789-primary-department-for-each-employee](https://github.com/Chenthurr/LeetCode-Problems/tree/master/1789-primary-department-for-each-employee) |
